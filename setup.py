@@ -11,7 +11,7 @@ banner = pyfiglet.figlet_format("Pico ducky\nAuto setup")
 print(banner)
 input('Make sure your Pico ducky is plugged in and on setup mode (Enter)')
 
-#add menu -add script -favourite scripts to txt
+#MISSING: add non ENGLISH keyboard
 
 print("[+] Cleaning Pico ducky")
 shutil.copy("files/flash_nuke.uf2","D:")
