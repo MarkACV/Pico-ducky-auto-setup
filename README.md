@@ -23,7 +23,7 @@ All you need is your Pico Ducky plugged into your computer in setup mode.
 ### Executing program
 
 * Install python requirements
-* Insert your Pico Ducky into your PC ('Bootsel' button), otherwise whatever payload is stored into it will run immediately !
+* Insert your Pico Ducky into your PC ('Bootsel' button), otherwise whatever payload is stored into it will run immediately!
 * run setup.py
 
 ```
@@ -40,11 +40,11 @@ This piece of software is intended for EDUCATIONAL PURPOSES ONLY and MUST NOT be
 Any misuse or damage caused by this information is not the responsibility of the repository owner. 
 
 
-## Version History
 
 
 
-* See [commit change]() or See [release history]()
+
+
 
 
 
