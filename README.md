@@ -14,6 +14,7 @@ All you need is your Pico Ducky plugged into your computer in setup mode.
 
 * Python 3
 * It has only been tested on Windows 10
+* It only works for US keboard layout for the moment
 
 ### Installing
 
