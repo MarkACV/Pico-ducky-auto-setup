@@ -29,7 +29,7 @@ All you need is your Pico Ducky plugged into your computer in setup mode.
 
 ```
 cd PATH_TO_DIRECTORY
-pipreqs
+pip install -r requirements.txt
 python setup.py
 ```
 
