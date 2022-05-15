@@ -20,6 +20,7 @@ All you need is your Pico Ducky plugged into your computer in setup mode.
 
 * Download zip file and excract its content into the directory you want to store this tool.
 * Or simply clone this repository into where you want to store it.
+* Add your txt ducky scripts to the scripts directory.
 
 ### Executing program
 
